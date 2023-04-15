@@ -64,5 +64,20 @@
             "url": "https://twitter.com/dannytencho44"
         },
         "singer": "琉律 Ruly"
+    },
+    {
+        "name": "Naraku",
+        "name_display": "七楽 naraku 的歌單",
+        "tag": [
+            "public",
+            "naraku",
+            "七楽"
+        ],
+        "route": "Playlists/YouTube/Naraku.jsonc",
+        "maintainer": {
+            "name": "丹尼店長",
+            "url": "https://twitter.com/dannytencho44"
+        },
+        "singer": "七楽 naraku"
     }
 ]
