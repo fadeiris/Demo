@@ -6,11 +6,8 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 
 ## 一、收錄的 VTuber
 
-- [瑟薇亞 Silvia Clione](https://www.youtube.com/channel/UCgIdZIYa6abRpcdOpNfbR7g)
-- [妮卡沃爾 Nica Wolper](https://www.youtube.com/channel/UCUOr_gncX_qdhezesVS3sqQ)
-- [心咲 KOE](https://www.youtube.com/channel/UCkTfvQqiCDniJt2XZFEXAbg)
-- [琉律 Ruly](https://www.youtube.com/@Ruly)
-- [七楽 naraku](https://www.youtube.com/@naraku.tensai)
+- [妮卡沃爾 Nica Wolper](https://www.youtube.com/@NicaCh)
+- [心咲 KOE](https://www.youtube.com/@koe__zzz)
 
 ## 二、收錄的 VUp
 
@@ -29,12 +26,10 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [折原露露](https://space.bilibili.com/631070414)
 - [祖婭納惜](https://space.bilibili.com/3046429)
 - [陸鰩 LuLu](https://space.bilibili.com/1856528671)
-- [米白](https://space.bilibili.com/5005968)
-  - 已畢業。
 - [冰糖IO](https://space.bilibili.com/198297)
 - [卡特斯 Cactus](https://space.bilibili.com/1482911817)
 
-## 三、唱見、其他
+## 三、唱見、配音員以及其他
 
 - [hanser](https://space.bilibili.com/11073)
 - [茶理理 Chalili](https://space.bilibili.com/684169)
@@ -42,3 +37,17 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [atoroeato 音醬](https://space.bilibili.com/2677744)
 - [周梓琦](https://space.bilibili.com/20473341)
 - [撿貓怪](https://space.bilibili.com/591402619)
+
+## 四、不會再更新（可以正常觀看）
+
+- [瑟薇亞 Silvia Clione](https://www.youtube.com/channel/UCgIdZIYa6abRpcdOpNfbR7g)
+  - ※活動休止。
+- [米白zzz](https://space.bilibili.com/5005968)
+  - 已畢業。
+
+## 五、已歸檔（無法正常觀看）
+
+- [七楽 naraku](https://www.youtube.com/@naraku.tensai)
+  - ※活動停止中。
+- [琉律 Ruly](https://www.youtube.com/@Ruly)
+  - ※長期休息。

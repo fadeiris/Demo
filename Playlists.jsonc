@@ -1,7 +1,7 @@
 [
     {
         "name": "SilviaClione",
-        "name_display": "瑟薇亞 Silvia 的歌單",
+        "name_display": "瑟薇亞 Silvia 的歌單（活動休止）",
         "tag": [
             "public",
             "silvia",
@@ -49,20 +49,5 @@
             "url": ""
         },
         "singer": "心咲 KOE"
-    },
-    {
-        "name": "Naraku",
-        "name_display": "七楽 naraku 的歌單",
-        "tag": [
-            "public",
-            "naraku",
-            "七楽"
-        ],
-        "route": "Playlists/YouTube/Naraku.jsonc",
-        "maintainer": {
-            "name": "丹尼店長",
-            "url": "https://twitter.com/dannytencho44"
-        },
-        "singer": "七楽 naraku"
     }
 ]
