@@ -6,8 +6,8 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 
 ## 一、收錄的 VTuber
 
-- [妮卡沃爾 Nica Wolper](https://www.youtube.com/@NicaCh)
-- [心咲 KOE](https://www.youtube.com/@koe__zzz)
+- [Nica Ch. 妮卡沃爾](https://www.youtube.com/@NicaCh)
+- [心咲 ⁄ ᴋᴏᴇ ∅.･ ](https://www.youtube.com/@koe__zzz)
 
 ## 二、收錄的 VUp
 

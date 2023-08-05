@@ -4,10 +4,10 @@
         "name_display": "瑟薇亞 Silvia 的歌單（活動休止）",
         "tag": [
             "public",
+            "滴魚工作室",
             "silvia",
             "via",
-            "瑟薇亞",
-            "滴魚工作室"
+            "瑟薇亞"
         ],
         "route": "Playlists/YouTube/SilviaClione.jsonc",
         "maintainer": {
@@ -20,27 +20,26 @@
         "name": "NicaWolper",
         "name_display": "妮卡沃爾 Nica 的歌單",
         "tag": [
-            "nica",
-            "nica wolper",
             "public",
-            "妮卡",
-            "妮卡沃爾"
+            "nica wolper",
+            "nica",
+            "妮卡沃爾",
+            "妮卡"
         ],
         "route": "Playlists/YouTube/NicaWolper.jsonc",
         "maintainer": {
             "name": "丹尼店長",
             "url": "https://twitter.com/dannytencho44"
         },
-        "singer": "妮卡沃爾 Nica Wolper"
+        "singer": "Nica Ch. 妮卡沃爾"
     },
     {
         "name": "KOE",
-        "name_display": "心咲 KOE 的歌單",
+        "name_display": "心咲 ᴋᴏᴇ 的歌單",
         "tag": [
-            "koe",
             "public",
             "werhaus",
-            "werhaus music",
+            "koe",
             "心咲"
         ],
         "route": "Playlists/YouTube/KOE.jsonc",
@@ -48,6 +47,6 @@
             "name": "",
             "url": ""
         },
-        "singer": "心咲 KOE"
+        "singer": "心咲 ⁄ ᴋᴏᴇ ∅.･ "
     }
 ]
