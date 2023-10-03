@@ -6,6 +6,7 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 
 ## 一、收錄的 VTuber
 
+- [瑟薇亞Silvia Clione Ch.](https://www.youtube.com/@silviaclionech.3056)
 - [Nica Ch. 妮卡沃爾](https://www.youtube.com/@NicaCh)
 - [心咲 ⁄ ᴋᴏᴇ ∅.･ ](https://www.youtube.com/@koe__zzz)
 
@@ -43,8 +44,6 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 
 ## 四、不會再更新（可以正常觀看）
 
-- [瑟薇亞Silvia Clione Ch.](https://www.youtube.com/channel/UCgIdZIYa6abRpcdOpNfbR7g)
-  - ※活動休止。
 - [米白zzz](https://space.bilibili.com/5005968)
   - 已畢業。
 
