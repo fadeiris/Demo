@@ -34,6 +34,10 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [树礼Suki](https://space.bilibili.com/3493277313534134)
 - [落笙Rosiel_](https://space.bilibili.com/350414988)
 - [谢儿Ciel](https://space.bilibili.com/3493257264761443)
+- [海娅Haia](https://space.bilibili.com/3546563678833475)
+- [-阿蕊娅Aria-](https://space.bilibili.com/10850238)
+- [伊格莉特Egolett](https://space.bilibili.com/3493108545227146)
+- [SINKAI塰](https://space.bilibili.com/1205128173)
 
 ## 三、音樂創作者、唱見、配音員或是其他
 

@@ -489,5 +489,69 @@
             "url": ""
         },
         "singer": "谢儿Ciel"
+    },
+    {
+        "name": "3546563678833475",
+        "name_display": "海娅Haia",
+        "tag": [
+            "bilibili",
+            "public",
+            "Haia",
+            "海娅"
+        ],
+        "route": "Playlists/Bilibili/3546563678833475.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "海娅Haia"
+    },
+    {
+        "name": "10850238",
+        "name_display": "阿蕊娅Aria",
+        "tag": [
+            "bilibili",
+            "public",
+            "Aria",
+            "阿蕊娅"
+        ],
+        "route": "Playlists/Bilibili/10850238.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "阿蕊娅Aria"
+    },
+    {
+        "name": "3493108545227146",
+        "name_display": "伊格莉特Egolett",
+        "tag": [
+            "bilibili",
+            "public",
+            "Egolett",
+            "伊格莉特"
+        ],
+        "route": "Playlists/Bilibili/3493108545227146.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "伊格莉特Egolett"
+    },
+    {
+        "name": "1205128173",
+        "name_display": "SINKAI塰",
+        "tag": [
+            "bilibili",
+            "public",
+            "SINKAI",
+            "塰"
+        ],
+        "route": "Playlists/Bilibili/1205128173.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "SINKAI塰"
     }
 ]
