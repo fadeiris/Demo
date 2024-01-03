@@ -301,11 +301,11 @@
     },
     {
         "name": "5005968",
-        "name_display": "米白zzz [已畢業]",
+        "name_display": "米白mii",
         "tag": [
             "bilibili",
             "public",
-            "zzz",
+            "mii",
             "米白"
         ],
         "route": "Playlists/Bilibili/5005968.jsonc",
@@ -313,7 +313,7 @@
             "name": "",
             "url": ""
         },
-        "singer": "米白zzz"
+        "singer": "米白mii"
     },
     {
         "name": "198297",
@@ -425,5 +425,69 @@
             "url": ""
         },
         "singer": "恋音Koi"
+    },
+    {
+        "name": "3493076263766277",
+        "name_display": "薄荷Miint",
+        "tag": [
+            "bilibili",
+            "public",
+            "Miint",
+            "薄荷"
+        ],
+        "route": "Playlists/Bilibili/3493076263766277.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "薄荷Miint"
+    },
+    {
+        "name": "3493277313534134",
+        "name_display": "树礼Suki",
+        "tag": [
+            "bilibili",
+            "public",
+            "Suki",
+            "树礼"
+        ],
+        "route": "Playlists/Bilibili/3493277313534134.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "树礼Suki"
+    },
+    {
+        "name": "350414988",
+        "name_display": "落笙Rosiel_",
+        "tag": [
+            "bilibili",
+            "public",
+            "Rosiel",
+            "落笙"
+        ],
+        "route": "Playlists/Bilibili/350414988.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "树落笙Rosiel_"
+    },
+    {
+        "name": "3493257264761443",
+        "name_display": "谢儿Ciel",
+        "tag": [
+            "bilibili",
+            "public",
+            "Ciel",
+            "谢儿"
+        ],
+        "route": "Playlists/Bilibili/3493257264761443.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "谢儿Ciel"
     }
 ]

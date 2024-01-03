@@ -30,6 +30,10 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [冰糖IO](https://space.bilibili.com/198297)
 - [昼歌里Hiru_u](https://space.bilibili.com/3494380161730626)
 - [恋音Koi](https://space.bilibili.com/4067807)
+- [薄荷Miint](https://space.bilibili.com/3493076263766277)
+- [树礼Suki](https://space.bilibili.com/3493277313534134)
+- [落笙Rosiel_](https://space.bilibili.com/350414988)
+- [谢儿Ciel](https://space.bilibili.com/3493257264761443)
 
 ## 三、音樂創作者、唱見、配音員或是其他
 
@@ -41,17 +45,11 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [捡猫怪](https://space.bilibili.com/591402619)
 - [卡农_Channel](https://space.bilibili.com/835644)
 - [Hagali_Rai](https://space.bilibili.com/1193071875)
+- [米白mii](https://space.bilibili.com/5005968)
 
-## 四、不會再更新（可以正常觀看）
-
-- [米白zzz](https://space.bilibili.com/5005968)
-  - 已畢業。
-
-## 五、已歸檔（無法正常觀看）
+## 四、已歸檔（無法正常觀看）
 
 - [七楽 naraku【 活動停止中 】](https://www.youtube.com/@naraku.tensai)
   - ※活動停止中。
 - [琉律 - Ruly -](https://www.youtube.com/@Ruly)
   - ※長期休息。
-- [卡特斯Cactus](https://space.bilibili.com/1482911817)
-  - ※已註銷帳號。
