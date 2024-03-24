@@ -553,5 +553,21 @@
             "url": ""
         },
         "singer": "SINKAI塰"
+    },
+    {
+        "name": "3546569288714792",
+        "name_display": "果宝Official",
+        "tag": [
+            "bilibili",
+            "public",
+            "果宝Official",
+            "果宝"
+        ],
+        "route": "Playlists/Bilibili/3546569288714792.jsonc",
+        "maintainer": {
+            "name": "",
+            "url": ""
+        },
+        "singer": "果宝Official"
     }
 ]

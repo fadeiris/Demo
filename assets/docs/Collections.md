@@ -38,6 +38,7 @@ Bilibili 網站的歌單不會包含在 [Playlists.jsonc](/Playlists.jsonc) 這�
 - [-阿蕊娅Aria-](https://space.bilibili.com/10850238)
 - [伊格莉特Egolett](https://space.bilibili.com/3493108545227146)
 - [SINKAI塰](https://space.bilibili.com/1205128173)
+- [果宝Official](https://space.bilibili.com/3546569288714792)
 
 ## 三、音樂創作者、唱見、配音員或是其他
 
